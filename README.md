@@ -8,22 +8,6 @@
 Chauken/Chauken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Things to learn:
-*Editors:
-  Vscode
-  vim\n
-*Programming languages
-  Typescript
-  Javascript
-  React
-  Go
-  Bash
-  Powershell
-  
- 
-  
-*Devops
-  Jenkins
-  Squish
+
 
   
